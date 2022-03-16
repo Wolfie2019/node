@@ -16,6 +16,7 @@ import io
 
 from distutils.version import StrictVersion
 
+print("hello world")
 # If not run from node/, cd to node/.
 os.chdir(os.path.dirname(__file__) or '.')
 
